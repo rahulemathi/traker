@@ -87,8 +87,13 @@ Link the Storage
 php artisan storage:link
 ```
 
+create a user
+```bash
+php artisan make:filament-user
+```
+
 make sure that your APP_URL = http://127.0.0.1:8000 to set the images working
 ## Authors
 
 - [@rahulemathi](https://github.com/rahulemathi)
-
+- the logo was designed by me
