@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo/traker.png') }}" alt="traker">
